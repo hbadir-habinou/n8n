@@ -5,4 +5,4 @@ FROM n8nio/n8n:latest
 EXPOSE 5678
 
 # Définir la commande par défaut pour lancer n8n
-ENTRYPOINT ["n8n", "start"]
+ENTRYPOINT ["n8n", "start"]
